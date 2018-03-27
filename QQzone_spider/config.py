@@ -1,0 +1,2 @@
+ACCOUNT = 'youraccount'
+PW = 'yourpassword'
